@@ -1,2 +1,4 @@
 Welcome to Myproject.
-mine:Lokesh world
+mine:Lokesh world.
+
+this is my location
